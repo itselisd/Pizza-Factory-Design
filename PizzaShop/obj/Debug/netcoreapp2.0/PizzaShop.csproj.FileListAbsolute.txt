@@ -1,0 +1,11 @@
+/Users/elis/Projects/PizzaShop/PizzaShop/bin/Debug/netcoreapp2.0/PizzaShop.deps.json
+/Users/elis/Projects/PizzaShop/PizzaShop/bin/Debug/netcoreapp2.0/PizzaShop.runtimeconfig.json
+/Users/elis/Projects/PizzaShop/PizzaShop/bin/Debug/netcoreapp2.0/PizzaShop.runtimeconfig.dev.json
+/Users/elis/Projects/PizzaShop/PizzaShop/bin/Debug/netcoreapp2.0/PizzaShop.dll
+/Users/elis/Projects/PizzaShop/PizzaShop/bin/Debug/netcoreapp2.0/PizzaShop.pdb
+/Users/elis/Projects/PizzaShop/PizzaShop/obj/Debug/netcoreapp2.0/PizzaShop.csprojResolveAssemblyReference.cache
+/Users/elis/Projects/PizzaShop/PizzaShop/obj/Debug/netcoreapp2.0/PizzaShop.csproj.CoreCompileInputs.cache
+/Users/elis/Projects/PizzaShop/PizzaShop/obj/Debug/netcoreapp2.0/PizzaShop.AssemblyInfoInputs.cache
+/Users/elis/Projects/PizzaShop/PizzaShop/obj/Debug/netcoreapp2.0/PizzaShop.AssemblyInfo.cs
+/Users/elis/Projects/PizzaShop/PizzaShop/obj/Debug/netcoreapp2.0/PizzaShop.dll
+/Users/elis/Projects/PizzaShop/PizzaShop/obj/Debug/netcoreapp2.0/PizzaShop.pdb

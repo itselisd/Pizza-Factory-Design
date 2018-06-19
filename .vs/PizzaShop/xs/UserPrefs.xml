@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{6FD6540B-F3DC-4ECC-9491-F6EDB1A2916D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PizzaShop/Enums/PizzaTypes.cs">
+    <Files>
+      <File FileName="PizzaShop/Program.cs" Line="9" Column="33" />
+      <File FileName="PizzaShop/Utilities/Tools.cs" Line="10" Column="34" />
+      <File FileName="PizzaShop/Utilities/ShopInit.cs" Line="43" Column="57" />
+      <File FileName="PizzaShop/PizzaStores/PizzaStore.cs" Line="1" Column="1" />
+      <File FileName="PizzaShop/Enums/PizzaTypes.cs" Line="3" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaShop" expanded="True">
+            <Node name="PizzaShop" expanded="True">
+              <Node name="Enums" expanded="True">
+                <Node name="PizzaTypes.cs" selected="True" />
+              </Node>
+              <Node name="Pizzas" expanded="True" />
+              <Node name="PizzaStores" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PizzaShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
